@@ -52,7 +52,7 @@ function factorialFunc(n) {
 // eg: n = 4 | k = 11
 var getPermutation = function (n, k) {
     k -= 1
-    console.log(k)
+    console.log(1)
     let ascNArr = [];
     let num = "";
     for (let a = 1; a <= n; a++) {
